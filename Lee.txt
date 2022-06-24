@@ -13,3 +13,6 @@ Hello!Git:
 
   Good afternoon! This is in the branch of master!
   So I call this master-test!
+
+  Good afternoon! This is in the branch of hot-fix!
+  So I call this hot-fix_test!
