@@ -16,3 +16,5 @@ Hello!Git:
 
   Good afternoon! This is in the branch of hot-fix!
   So I call this hot-fix_test!
+  
+  Good job!
