@@ -1,7 +1,12 @@
 Hello!Git:
-  Today is the second I meet you!It's so happy to see you again!
+  Today is the second day I meet you!It's so happy to see you again!
   I want to understand you more! So ,wish me a good luck! Thank you!
   See you later!
 
   Hey! Guy! Nice to see you again! You can see, I do a little change.
   And after this,I learn something more!
+
+  Wow! I'm very happy to see you every time. Because I can tell you 
+  what I just learn. I have learnt something about branch, so you can
+  see, I'm in a new branch now, which be created by me just few minutes
+  ago!
