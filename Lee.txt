@@ -10,3 +10,6 @@ Hello!Git:
   what I just learn. I have learnt something about branch, so you can
   see, I'm in a new branch now, which be created by me just few minutes
   ago!
+
+  Good afternoon! This is in the branch of master!
+  So I call this master-test!
