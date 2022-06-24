@@ -18,3 +18,6 @@ Hello!Git:
   So I call this hot-fix_test!
   
   Good job!
+
+  Hey!My name is lie. I have looked your code. I think it's good!
+  Keep fight!
